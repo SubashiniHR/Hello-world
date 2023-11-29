@@ -6,3 +6,4 @@
 # review when someone request 
 # interested in following and get to know more
 # Wanted to make connections
+* @global-owner1 @global-owner2
